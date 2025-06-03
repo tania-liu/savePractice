@@ -6,4 +6,4 @@ App功能很簡單，就是新增代辦事項＋完成打勾的圓圈。
 
 主要練習目標：如何將自定的struct型別轉換成 Data 儲存，並在重新啟動app後讀取出來。
 
-學習筆記Blog: https://medium.com/彼得潘的-swift-ios-app-開發教室/swiftpractice-30-資料儲存-使用-userdefaults-3552cf434f87
+[學習筆記Blog](https://medium.com/彼得潘的-swift-ios-app-開發教室/swiftpractice-30-資料儲存-使用-userdefaults-3552cf434f87)
